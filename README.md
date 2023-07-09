@@ -14,6 +14,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](Solution.png)
 
+### Links
+
+-[Live Site Preview](https://mhmd-ashif.github.io/FEM-qrcode)
+
 ## My process
 
 - Learning HTML,CSS,JAVASCRIPT
